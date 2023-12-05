@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-<p>Software engeneers from Brazil 🇧🇷</p>
+<p>Software engineers from Brazil 🇧🇷</p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>  
